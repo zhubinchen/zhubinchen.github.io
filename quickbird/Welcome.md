@@ -1,4 +1,4 @@
-## Welcome to use lightning
+## Welcome
 
 Save anything from the internet on your device for offline use!
 
@@ -6,7 +6,7 @@ Twitter, facebook, youtube, clouds - you name it.
 
 ### How to use
 
-1. click the "+" button at right top of the home page
+1. switch to browser tab
 
 2. input a link to open a web-page
 
