@@ -1,5 +1,8 @@
 {
     "client_key":"322944876540f3d51b0bd010fb6f8a50",
     "parse_type":0,
-    "enabel_redeem":true
+    "update_url":"https://www.v2ex.com/",
+    "new_version_tips":"erdtfyguhi",
+    "new_version":"1.2",
+    "demo_url":"https://www.v2ex.com/"
 }
